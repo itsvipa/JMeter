@@ -1,1 +1,12 @@
-
+# JMeter
+Install JMeter 4.0 
+Open jmeter.bat file to open JMeter
+Add minimum parameters for testing 
+- Thread Group 
+- Config Element - HTTP Header Manager 
+- Samplers - HTTP Request 
+- Listener - View Results in Table 
+In Thread Group -> Number of Threads (users) you should put number of users that will use API 
+Ramp-Up Period (in seconds) is the amount of time Jmeter should take to get all the threads sent for the execution. Ramp-Up should be sufficient enough to avoid unnecessary and large work load from the beginning of the test execution
+Loop Count - tells JMeter how many times to repeat your test
+The HTTP Header Manager lets you customize what information JMeter sends in the HTTP request header  
