@@ -1,4 +1,5 @@
 Install JMeter 4.0 
+Go to bin folder
 Open jmeter.bat file to open JMeter
 Add minimum parameters for testing 
 - Thread Group 
