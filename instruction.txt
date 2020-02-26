@@ -17,3 +17,6 @@ Here you should put headers such as :
 #Orchard-Profile-Id	****
 #Orchard-User-Id	alw:****
 Save 
+If you use test "All tests in one" 
+Open All tests in one.jmx file in JMeter
+In Test Plan -> User Defined Variables change ISRC to that you need and save
