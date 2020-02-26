@@ -9,7 +9,7 @@ Add minimum parameters for testing
 In Thread Group -> Number of Threads (users) you should put number of users that will use API 
 Ramp-Up Period (in seconds) is the amount of time Jmeter should take to get all the threads sent for the execution. Ramp-Up should be sufficient enough to avoid unnecessary and large work load from the beginning of the test execution
 Loop Count - tells JMeter how many times to repeat your test
-h4. The HTTP Header Manager h4. lets you customize what information JMeter sends in the HTTP request header. Here you should put headers such as 
+The HTTP Header Manager h4. lets you customize what information JMeter sends in the HTTP request header. Here you should put headers such as 
 #Content-Type	application/json
 #Accept	application/json
 #Orchard-Profile-Type	LabelProfile
