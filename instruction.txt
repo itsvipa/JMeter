@@ -5,7 +5,9 @@ Add minimum parameters for testing
 - Thread Group 
 - Config Element - HTTP Header Manager 
 - Samplers - HTTP Request 
-- Listener - View Results in Table 
+- Listener - View Results Tree ->Write results to file
+in Filename field put path to folder where are you going to keep test results. In path create name for file (ex. C:\Users\ekulagina\Downloads\apache-jmeter-4.0\bin\test_results\result.csv)
+
 In Thread Group -> Number of Threads (users) you should put number of users that will use API 
 Ramp-Up Period (in seconds) is the amount of time Jmeter should take to get all the threads sent for the execution. Ramp-Up should be sufficient enough to avoid unnecessary and large work load from the beginning of the test execution
 Loop Count - tells JMeter how many times to repeat your test
