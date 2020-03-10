@@ -1,0 +1,10 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+geographic-insights-by-region,149,2613,2158,5553,517.30,0.000%,.38414,92.50,0.15,246587.0
+geographic-insights-by-territory,148,690,563,2589,224.46,0.000%,.38902,6.11,0.15,16073.0
+demographic_insights,148,536,451,1118,104.12,0.000%,.38955,0.96,0.15,2528.0
+stream-charts,148,965,696,1988,267.22,0.000%,.38934,3.08,0.15,8113.0
+playlist-metadata,147,557,454,1640,154.01,0.000%,.38961,0.36,0.25,941.0
+playlist-placements,147,540,454,1041,118.27,0.000%,.38961,0.33,0.16,860.0
+geographics-latest-date,147,540,453,1321,111.05,0.000%,.38974,0.10,0.13,270.0
+geographic-orchard-regions,146,1349,1002,3353,297.88,0.000%,.38940,40.50,0.14,106514.0
+TOTAL,1180,976,451,5553,725.96,0.000%,3.04216,142.38,1.26,47924.3
